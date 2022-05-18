@@ -29,7 +29,7 @@ steps:
     apiId: 'edcbdfac3319b87104e720c4b48f4556'
     apiKey: '7dba8f47cec959a969b1b721aec8cc5e59fc3aa48cf54f0c4b72444fd06830139e0280dc81373e2e27b7378251fc683d055d781619f5e01b0b90c0669f3beeb0'
     veracodeAppProfile: 'Demo POC veracode'
-    sandboxName: 'Facu'
+    sandboxName: 'dammii96'
     version: '$(build.buildNumber)'
     filepath: './demo-avalora-veracode.zip'
     maximumWaitTime: '360'
